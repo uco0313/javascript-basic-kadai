@@ -9,4 +9,3 @@ const nowDate = () => {
 
 }
 
-nowDate();
